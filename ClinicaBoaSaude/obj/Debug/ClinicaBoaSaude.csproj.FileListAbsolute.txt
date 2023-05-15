@@ -1,0 +1,8 @@
+C:\Users\atend\ClinicaBoaSaude\ClinicaBoaSaude\bin\Debug\ClinicaBoaSaude.exe.config
+C:\Users\atend\ClinicaBoaSaude\ClinicaBoaSaude\bin\Debug\ClinicaBoaSaude.exe
+C:\Users\atend\ClinicaBoaSaude\ClinicaBoaSaude\bin\Debug\ClinicaBoaSaude.pdb
+C:\Users\atend\ClinicaBoaSaude\ClinicaBoaSaude\obj\Debug\ClinicaBoaSaude.csproj.AssemblyReference.cache
+C:\Users\atend\ClinicaBoaSaude\ClinicaBoaSaude\obj\Debug\ClinicaBoaSaude.csproj.SuggestedBindingRedirects.cache
+C:\Users\atend\ClinicaBoaSaude\ClinicaBoaSaude\obj\Debug\ClinicaBoaSaude.csproj.CoreCompileInputs.cache
+C:\Users\atend\ClinicaBoaSaude\ClinicaBoaSaude\obj\Debug\ClinicaBoaSaude.exe
+C:\Users\atend\ClinicaBoaSaude\ClinicaBoaSaude\obj\Debug\ClinicaBoaSaude.pdb
